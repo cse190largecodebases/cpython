@@ -31,14 +31,14 @@ For the most part, we will be referring to [Python's own Developer's Guide][2].
 We will highlight several most relevant sections of the official documentation,
 as well as the order in which you should follow them.
 
-{: .warning}
+### Warning
 **IMPORTANT:** If you have a Windows machine, it is **highly recommended** that
 you install [Windows Subsystem for Linux (WSL 2)][8] so you can work in a UNIX-
 based environment. The staff members can only provide very limited support for
 students working in a native Windows environment.
 
 
-{: .note}
+### Note
 This document assumes reasonable familiarity with Python, git, and the command
 line interface in a UNIX-bassed environment such as Linux or MacOS.
 
@@ -116,7 +116,7 @@ You can use whichever editor you prefer, but if you do not personally have a str
 preference, we would highly recommend you to follow this guide to set up Visual Studio
 Code as your primary editor.
 
-{: .note}
+### Note on other editors
 If you choose not to follow this guide for VSCode, you should still figure out how to
 select the correct Python interpreter for the language server in your editor to work
 properly. <br> (Don't try to work on large code bases without a smart code editor! I had a
